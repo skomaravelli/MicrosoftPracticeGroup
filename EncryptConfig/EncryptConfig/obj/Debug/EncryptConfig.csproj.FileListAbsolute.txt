@@ -1,0 +1,176 @@
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\ApplicationInsights.config
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\EncryptConfig.dll.config
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\EncryptConfig.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\EncryptConfig.pdb
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csc.exe
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csc.exe.config
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csc.rsp
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csi.exe
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csi.exe.config
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csi.rsp
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.AppContext.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Collections.Immutable.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Console.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Diagnostics.Process.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.Compression.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.FileSystem.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.Pipes.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Reflection.Metadata.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.AccessControl.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Claims.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Threading.Thread.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.ValueTuple.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.XPath.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\vbc.exe
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\vbc.exe.config
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\vbc.rsp
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\VBCSCompiler.exe
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\roslyn\VBCSCompiler.exe.config
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Antlr3.Runtime.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\AspNet.ScriptManager.bootstrap.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\AspNet.ScriptManager.jQuery.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.DependencyCollector.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.Web.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.WindowsServer.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.ApplicationInsights.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.ScriptManager.WebForms.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.Web.Infrastructure.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Newtonsoft.Json.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\System.Diagnostics.DiagnosticSource.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\System.Web.Optimization.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\WebGrease.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\System.Web.Optimization.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Newtonsoft.Json.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Antlr3.Runtime.pdb
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\System.Diagnostics.DiagnosticSource.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.DependencyCollector.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.WindowsServer.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.Web.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.csprojAssemblyReference.cache
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.csproj.CoreCompileInputs.cache
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.csproj.CopyComplete
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.dll
+D:\LearningTasks\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.pdb
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\ApplicationInsights.config
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\EncryptConfig.dll.config
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\EncryptConfig.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\EncryptConfig.pdb
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csc.exe
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csc.exe.config
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csc.rsp
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csi.exe
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csi.exe.config
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\csi.rsp
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.AppContext.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Collections.Immutable.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Console.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Diagnostics.Process.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.Compression.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.FileSystem.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.IO.Pipes.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Reflection.Metadata.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.AccessControl.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Claims.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Threading.Thread.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.ValueTuple.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.XPath.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\vbc.exe
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\vbc.exe.config
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\vbc.rsp
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\VBCSCompiler.exe
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\roslyn\VBCSCompiler.exe.config
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Antlr3.Runtime.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\AspNet.ScriptManager.bootstrap.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\AspNet.ScriptManager.jQuery.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.DependencyCollector.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.Web.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.WindowsServer.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.ApplicationInsights.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.ScriptManager.WebForms.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.Web.Infrastructure.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Newtonsoft.Json.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\System.Diagnostics.DiagnosticSource.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\System.Web.Optimization.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\WebGrease.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\System.Web.Optimization.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Newtonsoft.Json.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Antlr3.Runtime.pdb
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\System.Diagnostics.DiagnosticSource.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.DependencyCollector.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.WindowsServer.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.AI.Web.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.csprojAssemblyReference.cache
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.csproj.CoreCompileInputs.cache
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.csproj.CopyComplete
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.dll
+D:\LearningTasks (MicrosoftPractice)\Learning\EncryptConfig\EncryptConfig\obj\Debug\EncryptConfig.pdb

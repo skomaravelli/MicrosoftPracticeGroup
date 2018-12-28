@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptConfig", "EncryptConfig\EncryptConfig.csproj", "{3F075E2F-2A1E-4C2D-AA6E-4ADC4CEE4CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitWebConfig", "SplitWebConfig\SplitWebConfig.csproj", "{AEEE326F-A406-43F4-A9C4-09F1893DC9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F075E2F-2A1E-4C2D-AA6E-4ADC4CEE4CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F075E2F-2A1E-4C2D-AA6E-4ADC4CEE4CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F075E2F-2A1E-4C2D-AA6E-4ADC4CEE4CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F075E2F-2A1E-4C2D-AA6E-4ADC4CEE4CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEE326F-A406-43F4-A9C4-09F1893DC9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEE326F-A406-43F4-A9C4-09F1893DC9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEE326F-A406-43F4-A9C4-09F1893DC9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEE326F-A406-43F4-A9C4-09F1893DC9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AFB4AEC-B85B-40C3-BE1C-B76CDF245CC6}
+	EndGlobalSection
+EndGlobal
